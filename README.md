@@ -1,9 +1,4 @@
-# Blog-Generator-Using-LLaMA2
 
-Here’s the complete README.md file containing all the information you provided:
-
-markdown
-Copy code
 # LLaMA-2 Blog Generator 🚀
 
 This project demonstrates a simple web application built with Streamlit to generate blogs using the **LLaMA-2** model. Users can input a blog topic, choose a writing style, and specify the number of words, and the application will generate a blog post based on the provided parameters.
@@ -62,5 +57,5 @@ Thanks to the creators of the LLaMA-2 model and the Streamlit framework for maki
 Contact
 For questions or suggestions, feel free to reach out:
 
-Email: sovit2017nayak@gmail.com
+Email: sovit.nayak03@gmail.com
 GitHub: sovitnayak123
