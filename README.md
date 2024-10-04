@@ -6,7 +6,7 @@ This project demonstrates a simple web application built with Streamlit to gener
 ## Features
 
 - Input a desired blog topic.
-- Select the writing style for the blog (e.g., Researchers, Data Scientist, Common People).
+- Select the writing style for the blog (e.g., Researchers, Data Enthusiasts, Academic).
 - Specify the number of words for the generated blog.
 - Generate a blog post with a single click.
 
